@@ -11,3 +11,5 @@ notes.md
 .idea/tasks.xml
 .idea/usage.statistics.xml
 .idea/workspace.xml
+/idea-flex.skeleton
+/jflex-1.7.0-2.jar
